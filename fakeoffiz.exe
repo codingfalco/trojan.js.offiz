@@ -1,0 +1,9 @@
+print("are you an idiot?")
+print("[1], no" "[2], yes")
+option=inpt()
+if option == "1"
+  while: 3>2   
+print ("you are an idiot")
+if option == "2"
+ while 3>2
+   print("you are an idiot!")
