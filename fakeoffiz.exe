@@ -1,9 +1,12 @@
 print("are you an idiot?")
-print("[1], no" "[2], yes")
-option=inpt()
-if option == "1"
-  while: 3>2   
-print ("you are an idiot")
-if option == "2"
- while 3>2
-   print("you are an idiot!")
+print("[1] yes", "[2] no")
+option = input()
+if option == '1': #checks to see if the user chose option 1
+		print("you are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiot")
+		virus = input()
+		if virus == virus:
+  			while 3 > 2: #makes "print("The " + virus + " virus has been found!")" repeat
+    					print("The " + virus + " virus has been found!")
+if option == '2': #checks to see if the user chose option 2
+  print("oh i think you are!                                        you are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiotyou are an idiot")
+ 
